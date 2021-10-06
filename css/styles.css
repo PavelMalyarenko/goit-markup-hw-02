@@ -1,0 +1,18 @@
+.filters:hover,
+.filters:focus {
+  background: #2196f3;
+}
+.projects-1 {
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 215px;
+  top: 262px;
+}
+.project-2 {
+  position: absolute;
+  width: 370px;
+  height: 404px;
+  left: 615px;
+  top: 262px;
+}
